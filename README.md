@@ -9,8 +9,16 @@
 ## Profile
 Courageous, self-driven person with the ability to efficiently cooperate with teammates. I have a desire to promote my skills, collaborate with like-minded people, and bring any project to meet expectations.
 
-## Experience
+## Activity
+### WordPress CMS, Laravel, Opencart
+- **Skills:** ACF, TablePress, CF7, Yoast SEO, Gutenberg, other Builders, WooCommerce, Dokan, Payments integrations, etc.
+- **Development:** Theme from scratch, child theme, plugin development, Laravel Blade & OC Twig.
+- **Technologies:** PHP, JS, jQuery, React, REST, HTML, CSS, SCSS, SQL, Gulp, Webpack, Vite.
 
+### Support Services
+- **Tools:** Figma, PSD, cPanel, VPS, Jira, Git, Docker, wp-cli, Eloquent, PHPUnit.
+
+## Experience
 |![Mer Img](images/mer.png)| OJSC Meridian n. S.P.Korolyov  | Website Developer (WP CMS) | Feb 2021 - Present |
 |--------------------------|--------------------------------|----------------------------|--------------------|
 |![Mer Img](images/devt.png)| DevIT Group            | WordPress Developer            | May 2024 - Aug 2024 |
