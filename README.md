@@ -18,6 +18,16 @@ Courageous, self-driven person with the ability to efficiently cooperate with te
 ### Suplementary Services
 - **Tools:** Figma, PSD, cPanel, VPS, Jira, Git, Docker, wp-cli, Eloquent, PHPUnit.
 
+## Portfolio
+- [son-pid-kluch.com](https://son-pid-kluch.com)
+- [amrap.io](https://amrap.io)
+- [l-3.tech](https://l-3.tech)
+- [quiz.resolutty.com](https://quiz.resolutty.com)
+- [fyndbomben.se](https://fyndbomben.se) (part-time)
+- [slimset.com.ua](https://slimset.com.ua) (part-time)
+- [rebuildmakariv.com.ua](https://www.rebuildmakariv.com.ua)
+- [makariv-rada.gov.ua](https://new.makariv-rada.gov.ua)
+
 ## Experience
 |![Mer Img](images/mer.png)| OJSC Meridian n. S.P.Korolyov  | Website Developer (WP CMS) | Feb 2021 - Present |
 |--------------------------|--------------------------------|----------------------------|--------------------|
