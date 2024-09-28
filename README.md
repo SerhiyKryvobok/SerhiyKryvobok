@@ -11,23 +11,22 @@ Courageous, self-driven person with the ability to efficiently cooperate with te
 
 ## Experience
 
-| Role                       | Company                                     | Duration |
-|----------------------------|---------------------------------------------|----------|
-| Website Developer (WP CMS) | OJSC Meridian n. S.P.Korolyov               | -        |
-| WordPress Developer        | DevIT Group                                 | -        |
-| WordPress Developer        | Amrap                                       | -        |
-| WordPress Developer        | L-3 Web Studio                              | -        |
-| WordPress Developer        | SKELAR                                      | -        |
-| WordPress Developer        | Right.Link                                  | -        |
-| System Administrator       | OJSC Meridian n. S.P.Korolyov               | -        |
-| De-icing Program Manager   | Kyiv International Airport (UKKK)           | -        |
+|![Mer Img](images/mer.png)| OJSC Meridian n. S.P.Korolyov  | Website Developer (WP CMS) | Feb 2021 - Present |
+|--------------------------|--------------------------------|----------------------------|--------------------|
+|![Mer Img](images/devt.png)| DevIT Group            | WordPress Developer            | May 2024 - Aug 2024 |
+|![Mer Img](images/amrap.png)| Amrap             | WordPress Developer            | Oct 2023 - Mar 2024 |
+|![Mer Img](images/l3.png)| L-3 Web Studio             | WordPress Developer            | May 2023 - Sep 2023 |
+|![Mer Img](images/skelar.png)| SKELAR             | WordPress Developer            | Mar 2023 - Jun 2023 |
+|![Mer Img](images/rl.png)| Right.Link             | WordPress Developer            | Jul 2022 - Sep 2022 |
+|![Mer Img](images/mer.png)| OJSC Meridian n. S.P.Korolyov             | System Administrator            | Sep 2016 - Feb 2021 |
+|![Mer Img](images/kyiv.png)| Kyiv International Airport (UKKK)             | De-icing Program Manager            | Jun 2012 - Aug 2022 |
 
 ## Education
 
-| Degree                                 | University                              | |
-|----------------------------------------|-----------------------------------------|--|
-| Specialist Degree in Marketing         | National Aviation University            |  |
-| Specialist Degree in Robotics and CS   | National Technical University of Ukraine ”KPI” |  |
+|                          | University                             | Degree                              | Period |
+|--------------------------|----------------------------------------|-------------------------------------|--------|
+|![Mer Img](images/nau.png)| National Aviation University         |  Specialist in Marketing | 2015 - 2017 |
+|![Mer Img](images/kpi.png)| National Technical University of Ukraine ”KPI”   | Specialist in Robotics and CS | 2006 - 2012 |
 
 <!--
 **SerhiyKryvobok/SerhiyKryvobok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
