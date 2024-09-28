@@ -11,11 +11,11 @@ Courageous, self-driven person with the ability to efficiently cooperate with te
 
 ## Activity
 ### WordPress CMS, Laravel, Opencart
-- **Skills:** ACF, TablePress, CF7, Yoast SEO, Gutenberg, other Builders, WooCommerce, Dokan, Payments integrations, etc.
-- **Development:** Theme from scratch, child theme, plugin development, Laravel Blade & OC Twig.
+- **Abilities:** Theme from scratch, child theme, plugin development, Laravel Blade & OC Twig.
 - **Technologies:** PHP, JS, jQuery, React, REST, HTML, CSS, SCSS, SQL, Gulp, Webpack, Vite.
+- **Plugins:** ACF, TablePress, CF7, Yoast SEO, Gutenberg, other Builders, WooCommerce, Dokan, Payments integrations, etc.
 
-### Support Services
+### Suplementary Services
 - **Tools:** Figma, PSD, cPanel, VPS, Jira, Git, Docker, wp-cli, Eloquent, PHPUnit.
 
 ## Experience
