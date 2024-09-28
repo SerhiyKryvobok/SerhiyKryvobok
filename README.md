@@ -46,6 +46,17 @@ Courageous, self-driven person with the ability to efficiently cooperate with te
 |![Mer Img](images/nau.png)| National Aviation University         |  Specialist in Marketing | 2015 - 2017 |
 |![Mer Img](images/kpi.png)| National Technical University of Ukraine ”KPI”   | Specialist in Robotics and CS | 2006 - 2012 |
 
+## Courses
+- **Udemy** - PHPUnit - Unit & Selenium Testing For PHP Developers
+- **Udemy** - Let's Learn Laravel: A Guided Path For Beginners
+- **Udemy** - Become a WordPress Developer: Unlocking Power With Code
+- **LITS** - Fundamental QA
+
+## Languages
+- **English:** Fluent
+- **Ukrainian:** Native
+- **Russian:** Possible
+
 <!--
 **SerhiyKryvobok/SerhiyKryvobok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
