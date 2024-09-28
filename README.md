@@ -1,3 +1,5 @@
+![GitHub Banner](images/git-readme-banner.png)
+
 ## Hi there 👋
 
 <!--
