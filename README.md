@@ -60,3 +60,5 @@ Courageous, self-driven person with the ability to efficiently cooperate with te
 <!--
 **SerhiyKryvobok/SerhiyKryvobok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+![GitHub Bottom Banner](images/git-readme-bottom-banner.png)
