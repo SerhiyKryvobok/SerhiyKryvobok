@@ -41,7 +41,7 @@ Courageous, self-driven person with the ability to efficiently cooperate with te
 ## Experience
 |![Mer Img](images/mer.png)| OJSC Meridian n. S.P.Korolyov  | Website Developer (WP CMS) | Feb 2021 - Present |
 |--------------------------|--------------------------------|----------------------------|--------------------|
-|![Mer Img](images/nda.png)| NDA            | PHPP Backend Developer            | Nov 2024 - Jan 2025 |
+|![Mer Img](images/nda.png)| NDA            | PHP Backend Developer            | Nov 2024 - Jan 2025 |
 |![Mer Img](images/devt.png)| DevIT Group            | WordPress Developer            | May 2024 - Aug 2024 |
 |![Mer Img](images/amrap.png)| Amrap             | WordPress Developer            | Oct 2023 - Mar 2024 |
 |![Mer Img](images/l3.png)| L-3 Web Studio             | WordPress Developer            | May 2023 - Sep 2023 |
