@@ -21,8 +21,8 @@ Courageous, self-driven person with the ability to efficiently cooperate with te
 - **Abilities:** Templates development, user flow, cms like system architecture.
 - **Technologies:** Blade, Artisan, Eloquent, Middleware, Websocket.
 ### Tech stack
-- **Frontend:** HTML, CSS, SCSS, JS, jQuery, React, Bootstrap.
-- **Backend:** PHP, REST, mySQL.
+- **Frontend:** HTML, CSS, SCSS, JS, jQuery, React, Bootstrap, Ajax.
+- **Backend:** PHP, REST, MySQL, SMTP.
 - **Bundlers:** Gulp, Webpack, Vite.
 - **Testing:** Eslint, PHPUnit.
 ### Suplementary Services
@@ -31,7 +31,7 @@ Courageous, self-driven person with the ability to efficiently cooperate with te
 ## Portfolio
 - [son-pid-kluch.com](https://son-pid-kluch.com)
 - [amrap.io](https://amrap.io)
-- [l-3.tech](https://l-3.tech) {old site}
+- l-3.tech {old site}
 - [quiz.resolutty.com](https://quiz.resolutty.com)
 - [fyndbomben.se](https://fyndbomben.se) (part-time)
 - [slimset.com.ua](https://slimset.com.ua) (part-time)
