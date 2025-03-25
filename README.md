@@ -1,13 +1,14 @@
 ![GitHub Banner](images/git-readme-banner.png)
 
-# Serhiy Kryvobok
+# Hello!
 
+<!--
 | 🔗 **LinkedIn:** [linkedin.com/in/serkryvobok](https://www.linkedin.com/in/serkryvobok) | 🌍 **Location:** Kyiv, UA |
 |---------------------------------------------------------------------------------------|--------------------------|
 | 📧 **Email:** [serhiy.kryvobok@gmail.com](mailto:serhiy.kryvobok@gmail.com) | 📞 **Phone:** +380662467567 |
 
-## Profile
-Courageous, self-driven person with the ability to efficiently cooperate with teammates. I have a desire to promote my skills, collaborate with like-minded people, and bring any project to meet expectations.
+## Profile -->
+I'm a courageous, self-driven person with the ability to efficiently cooperate with teammates. I have a desire to promote my skills, collaborate with like-minded people, and bring any project to meet expectations.
 
 ## Activity
 ### WordPress CMS
