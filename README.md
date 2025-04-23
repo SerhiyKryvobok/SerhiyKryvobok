@@ -25,7 +25,7 @@ I'm a courageous, self-driven person with the ability to efficiently cooperate w
 - **Frontend:** HTML, CSS, SCSS, JS, jQuery, React, Bootstrap, Ajax.
 - **Backend:** PHP, REST, MySQL, SMTP.
 - **Bundlers:** Gulp, Webpack, Vite.
-- **Testing:** Eslint, PHPUnit.
+- **Testing:** Eslint, PHPUnit, Selenium WebDriver.
 ### Suplementary Services
 - **Tools:** Figma, PSD, cPanel, VPS, Jira, Git, Docker, wp-cli.
 
