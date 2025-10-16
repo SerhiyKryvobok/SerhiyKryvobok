@@ -38,7 +38,7 @@ I'm a courageous, self-driven person with the ability to efficiently cooperate w
 - [quiz.resolutty.com](https://quiz.resolutty.com)
 - [rebuildmakariv.com.ua](https://www.rebuildmakariv.com.ua)
 - [makariv-rada.gov.ua](https://new.makariv-rada.gov.ua)
-- and aprox. dozen part time projects...
+- aprox. dozen part time projects and beyond...
 
 ## Experience
 |![Mer Img](images/mer.png)| OJSC Meridian n. S.P.Korolyov  | Website Developer (WP CMS) | Feb 2021 - Present |
