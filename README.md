@@ -31,14 +31,14 @@ I'm a courageous, self-driven person with the ability to efficiently cooperate w
 - **Tools:** Figma, PSD, cPanel, VPS, Jira, Git, Docker, wp-cli.
 
 ## Portfolio
+- [liag.com.ua](https://liag.com.ua)
+- [oddschamp.dk](https://oddschamp.dk)
 - [son-pid-kluch.com](https://son-pid-kluch.com)
 - [amrap.io](https://amrap.io)
-- l-3.tech {old site}
 - [quiz.resolutty.com](https://quiz.resolutty.com)
-- [fyndbomben.se](https://fyndbomben.se) (part-time)
-- [slimset.com.ua](https://slimset.com.ua) (part-time)
 - [rebuildmakariv.com.ua](https://www.rebuildmakariv.com.ua)
 - [makariv-rada.gov.ua](https://new.makariv-rada.gov.ua)
+- and aprox. dozen part time projects...
 
 ## Experience
 |![Mer Img](images/mer.png)| OJSC Meridian n. S.P.Korolyov  | Website Developer (WP CMS) | Feb 2021 - Present |
