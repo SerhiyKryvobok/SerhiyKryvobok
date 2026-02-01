@@ -60,6 +60,7 @@ I'm a courageous, self-driven person with the ability to efficiently cooperate w
 |![Mer Img](images/kpi.png)| National Technical University of Ukraine ”KPI”   | Specialist in Robotics and CS | 2006 - 2012 |
 
 ## Courses
+- **Udemy** - [WooCommerce Theme Development: Advanced Course](pdf/UC-4bc6c2b3-d4d0-4e91-8ade-8ba138837f73.pdf)
 - **Udemy** - PHPUnit - Unit & Selenium Testing For PHP Developers
 - **Udemy** - Let's Learn Laravel: A Guided Path For Beginners
 - **Udemy** - Become a WordPress Developer: Unlocking Power With Code
