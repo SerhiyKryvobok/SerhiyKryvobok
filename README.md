@@ -24,11 +24,13 @@ I'm a courageous, self-driven person with the ability to efficiently cooperate w
 ### Tech stack
 - **Frontend:** HTML, CSS, SCSS, JS, jQuery, React, Bootstrap, Ajax.
 - **Backend:** PHP, REST, MySQL, SMTP.
-- **Bundlers:** Gulp, Webpack, Vite.
+- **Bundlers:** Gulp, Webpack, Vite, Laravel Mix.
 - **Testing:** Eslint, PHPUnit, Selenium WebDriver.
 - **Analitics:** Amplitude.
 ### Suplementary Services
-- **Tools:** Figma, PSD, cPanel, VPS, Jira, Git, Docker, wp-cli.
+- **Design:** Figma, PSD, Zeplin.
+- **Task management:** Jira, Trello, Notion.
+- **Tools:** cPanel, VPS, Git, Docker, wp-cli.
 
 ## Portfolio
 - [liag.com.ua](https://liag.com.ua)
@@ -61,19 +63,15 @@ I'm a courageous, self-driven person with the ability to efficiently cooperate w
 
 ## Courses
 - **Udemy** - [WooCommerce Theme Development: Advanced Course](pdf/UC-4bc6c2b3-d4d0-4e91-8ade-8ba138837f73.pdf)
-- **Udemy** - PHPUnit - Unit & Selenium Testing For PHP Developers
-- **Udemy** - Let's Learn Laravel: A Guided Path For Beginners
-- **Udemy** - Become a WordPress Developer: Unlocking Power With Code
+- **Udemy** - [PHPUnit - Unit & Selenium Testing For PHP Developers](pdf/UC-cbc8ab37-e520-4c37-9d97-f53552732b6d.pdf)
+- **Udemy** - [Let's Learn Laravel: A Guided Path For Beginners](pdf/UC-7df4184f-d3a4-45fc-ad2c-042f43fb755f.pdf)
+- **Udemy** - [Become a WordPress Developer: Unlocking Power With Code](pdf/UC-9a83afec-ea6a-40d5-8ab6-17e698105f67.pdf)
 - **LITS** - Fundamental QA
 
 ## Languages
 - **English:** Fluent
 - **Ukrainian:** Native
 - **Russian:** Possible
-
-<!--
-**SerhiyKryvobok/SerhiyKryvobok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 ## 
 ![GitHub Bottom Banner](images/git-readme-bottom-banner.png)
