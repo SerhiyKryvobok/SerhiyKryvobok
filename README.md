@@ -43,24 +43,24 @@ I'm a courageous, self-driven person with the ability to efficiently cooperate w
 - aprox. dozen part time projects and beyond...
 
 ## Experience
-|![Mer Img](images/webs.jpg)| Webselenese | PHP Developer (WP CMS) | Apr 2025 - Present |
-|--------------------------|--------------------------------|----------------------------|--------------------|
-|![Mer Img](images/mer.png)| OJSC Meridian n. S.P.Korolyov  | Website Developer (WP CMS) | Feb 2021 - Present |
-|![Mer Img](images/nda.png)| NDA            | PHP Backend Developer            | Nov 2024 - Jan 2025 |
-|![Mer Img](images/devt.png)| DevIT Group            | WordPress Developer            | May 2024 - Aug 2024 |
-|![Mer Img](images/amrap.png)| Amrap             | WordPress Developer            | Oct 2023 - Mar 2024 |
-|![Mer Img](images/l3.png)| L-3 Web Studio             | WordPress Developer            | May 2023 - Sep 2023 |
-|![Mer Img](images/skelar.png)| SKELAR             | WordPress Developer            | Mar 2023 - Jun 2023 |
-|![Mer Img](images/rl.png)| Right.Link             | WordPress Developer            | Jul 2022 - Sep 2022 |
-|![Mer Img](images/mer.png)| OJSC Meridian n. S.P.Korolyov             | System Administrator            | Sep 2016 - Feb 2021 |
-|![Mer Img](images/kyiv.png)| Kyiv International Airport (UKKK)             | De-icing Program Manager            | Jun 2012 - Aug 2022 |
+|![Webselenese logo](images/webs.jpg)| Webselenese | PHP Developer (WP CMS) | Apr 2025 - Present |
+|:-------------------------|:-------------------------------|:---------------------------|:-------------------|
+|![Meridian logo](images/mer.png)| OJSC Meridian n. S.P.Korolyov  | Website Developer (WP CMS) | Feb 2021 - Present |
+|![NDA logo](images/nda.png)| NDA            | PHP Backend Developer            | Nov 2024 - Jan 2025 |
+|![DevIT logo](images/devt.png)| DevIT Group            | WordPress Developer            | May 2024 - Aug 2024 |
+|![Amrap logo](images/amrap.png)| Amrap             | WordPress Developer            | Oct 2023 - Mar 2024 |
+|![L-3 logo](images/l3.png)| L-3 Web Studio             | WordPress Developer            | May 2023 - Sep 2023 |
+|![SKELAR logo](images/skelar.png)| SKELAR             | WordPress Developer            | Mar 2023 - Jun 2023 |
+|![RightLink logo](images/rl.png)| Right.Link             | WordPress Developer            | Jul 2022 - Sep 2022 |
+|![Meridian logo](images/mer.png)| OJSC Meridian n. S.P.Korolyov             | System Administrator            | Sep 2016 - Feb 2021 |
+|![UKKK logo](images/kyiv.png)| Kyiv International Airport (UKKK)             | De-icing Program Manager            | Jun 2012 - Aug 2022 |
 
 ## Education
 
 |                          | University                             | Degree                              | Period |
 |--------------------------|----------------------------------------|-------------------------------------|--------|
-|![Mer Img](images/nau.png)| National Aviation University         |  Specialist in Marketing | 2015 - 2017 |
-|![Mer Img](images/kpi.png)| National Technical University of Ukraine ”KPI”   | Specialist in Robotics and CS | 2006 - 2012 |
+|![NAU logo](images/nau.png)| National Aviation University         |  Specialist in Marketing | 2015 - 2017 |
+|![KPI logo](images/kpi.png)| National Technical University of Ukraine ”KPI”   | Specialist in Robotics and CS | 2006 - 2012 |
 
 ## Courses
 - **Udemy** - [Creating WordPress Plugins The Right Way](pdf/UC-e3250cb1-e284-47e5-bdf7-547ed642bd81.pdf)
