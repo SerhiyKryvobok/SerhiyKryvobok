@@ -43,8 +43,9 @@ I'm a courageous, self-driven person with the ability to efficiently cooperate w
 - aprox. dozen part time projects and beyond...
 
 ## Experience
-|![Mer Img](images/mer.png)| OJSC Meridian n. S.P.Korolyov  | Website Developer (WP CMS) | Feb 2021 - Present |
+|![Mer Img](images/webs.jpg)| Webselenese | PHP Developer (WP CMS) | Apr 2025 - Present |
 |--------------------------|--------------------------------|----------------------------|--------------------|
+|![Mer Img](images/mer.png)| OJSC Meridian n. S.P.Korolyov  | Website Developer (WP CMS) | Feb 2021 - Present |
 |![Mer Img](images/nda.png)| NDA            | PHP Backend Developer            | Nov 2024 - Jan 2025 |
 |![Mer Img](images/devt.png)| DevIT Group            | WordPress Developer            | May 2024 - Aug 2024 |
 |![Mer Img](images/amrap.png)| Amrap             | WordPress Developer            | Oct 2023 - Mar 2024 |
