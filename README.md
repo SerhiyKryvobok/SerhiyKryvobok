@@ -57,9 +57,8 @@ I'm a courageous, self-driven person with the ability to efficiently cooperate w
 
 ## Education
 
-|                          | University                             | Degree                              | Period |
-|--------------------------|----------------------------------------|-------------------------------------|--------|
 |![NAU logo](images/nau.png)| National Aviation University         |  Specialist in Marketing | 2015 - 2017 |
+|:-------------------------|:---------------------------------------|:------------------------------------|:-------|
 |![KPI logo](images/kpi.png)| National Technical University of Ukraine ”KPI”   | Specialist in Robotics and CS | 2006 - 2012 |
 
 ## Courses
